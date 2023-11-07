@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#DIOP-3] Como usuário desejo preencher formulário para criação de conta em loja virtual.</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://r3dd.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [DIOP-3]&nbsp;<a href="https://r3dd.atlassian.net/browse/DIOP-3">Como usuário desejo preencher formulário para criação de conta em loja virtual.</a>
+            <span class="subText">
+               Criado: 07/nov/23                   &nbsp;Atualizado(a): 07/nov/23
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">A FAZER</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projeto:</b></td>
+        <td width="80%"><a href="https://r3dd.atlassian.net/secure/BrowseProject.jspa?id=10000">DIOProject</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Componentes:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões afetadas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões corrigidas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Tipo:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            História
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Prioridade:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Relator:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:8082e35f-2c85-49bc-82a0-247f7e7c626b"
+                id="word_reporter_712020:8082e35f-2c85-49bc-82a0-247f7e7c626b"
+                href="https://r3dd.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A8082e35f-2c85-49bc-82a0-247f7e7c626b">
+                    Arédio Filho
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Responsável:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Não atribuído
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolução:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Não resolvido(s)
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Categorias:</b>
+        </td>
+        <td id="labels-10002-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Nenhum
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Estimativa de trabalho restante:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Tempo gasto:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimativa original:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10002-value" class="value" bgcolor="#ffffff" width="80%">      0|i0000f:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10002-value" class="value" bgcolor="#ffffff" width="80%"></td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Descrição</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>1- <b>Valor:</b> O formulário é essencial para a coleta de informações dos clientes, garantindo que a conta criada seja associada a uma pessoa física. Essa funcionalidade tem como objetivo verificar os dados fornecidos pelo cliente e estabelecer uma conta com uma senha de alta segurança.</p>
+
+
+<p>2 - <b>Narrativa do usuário:</b></p>
+
+<blockquote><p><b>Como</b> cliente</p>
+
+<p><b>Eu quero</b> acessar a pagina de cadastro</p>
+
+<p><b>Para</b> preencher o formulário e criar uma conta para acessar o site</p></blockquote>
+
+
+<p>3 - <b>Requisitos:</b></p>
+
+<ul>
+	<li>Atores: Cliente;</li>
+	<li>Interface: Ver documento em anexo da UI/UX;</li>
+	<li>Dados:<br/>
+o Desenvolvimento de uma tela de registro que inclui um formulário, possibilitando que o usuário preencha seus dados pessoais e escolha uma senha de sua preferência para autenticação posteriormente;<br/>
+o Utilização de uma API para integração com o sistema de Banco de Dados;</li>
+	<li>Plataforma/Ambientes:<br/>
+o Web/Web Mobile;<br/>
+o É necessário configurar ambientes e pipelines para as fases de desenvolvimento, homologação de usuário, homologação de QA e produção.</li>
+	<li>Critérios de aceite:<br/>
+o Usuário deve visualizar formulário com campos para preenchimento;<br/>
+o Usuário deve visualizar botão para finalizar cadastro;<br/>
+o Usuário deve visualizar botão para cancelar cadastro;<br/>
+o Usuário deve visualizar campos que falharam na validação dos dados de entrada.</li>
+</ul>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Gerado em Tue Nov 07 05:44:01 UTC 2023 por Arédio Filho usando JIRA 1001.0.0-SNAPSHOT#100241-sha1:65185100696cf263404b3422ee57c96012de65d8.
+
+</body>
+</html>
